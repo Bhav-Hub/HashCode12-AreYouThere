@@ -27,7 +27,7 @@ To integrate another language:
 - **Unity 2022.3.21f1**: Game engine and 3D environment
 - **C#**: Primary programming language for Unity scripts
 - **Python**: Backend processing and AI integration
-- **OpenAI API**: Natural language processing and conversation generation
+- **OpenAI API**: Natural language processing and conversation generation (gpt-3.5-turbo-0125)
 - **Ready Player Me**: Avatar creation and customization
 
 ## 📁 Project Structure
@@ -72,7 +72,7 @@ Are You There/
    - Wait for Unity to import all assets
 
 3. **Configure API Keys**
-   - Set up your OpenAI API key in the project settings
+   - Set up your OpenAI API key in the project settings (or create .openai folder with auth.json in root directory of user)
    - Configure LMNT credentials for text-to-speech
 
 4. **Install Dependencies**
