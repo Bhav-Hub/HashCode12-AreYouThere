@@ -1,5 +1,6 @@
 ## Note
-This project was built in 24 hours during a college hackathon by 3 second-year students.
+(March 2023)
+This project was built in 24 hours during a college hackathon by second-year students.
 Supports Hindi language learning only
 
 To integrate another language:
