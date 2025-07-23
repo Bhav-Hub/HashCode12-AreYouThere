@@ -46,7 +46,6 @@ Are You There/
 ├── OpenAI.Runtime.csproj           # OpenAI integration
 ├── OpenAI.Editor.csproj            # OpenAI editor tools
 ├── ReadyPlayerMe.*.csproj          # Avatar system components
-├── lmnt.unity.*.csproj             # Text-to-speech integration
 └── Are You There.sln               # Visual Studio solution file
 ```
 
@@ -75,7 +74,6 @@ Are You There/
 
 3. **Configure API Keys**
    - Set up your OpenAI API key in the project settings (or create .openai folder with auth.json in root directory of user)
-   - Configure LMNT credentials for text-to-speech
 
 4. **Install Dependencies**
    - Unity will automatically resolve package dependencies
