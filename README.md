@@ -40,13 +40,13 @@ Are You There/
 ├── Library/                         # Unity generated files
 ├── Packages/                        # Unity package dependencies
 ├── ProjectSettings/                 # Unity project configuration
-├── Temp/                           # Temporary build files
-├── UserSettings/                   # User-specific Unity settings
-├── Assembly-CSharp.csproj          # Main C# project
-├── OpenAI.Runtime.csproj           # OpenAI integration
-├── OpenAI.Editor.csproj            # OpenAI editor tools
-├── ReadyPlayerMe.*.csproj          # Avatar system components
-└── Are You There.sln               # Visual Studio solution file
+├── Temp/                            # Temporary build files
+├── UserSettings/                    # User-specific Unity settings
+├── Assembly-CSharp.csproj           # Main C# project
+├── OpenAI.Runtime.csproj            # OpenAI integration
+├── OpenAI.Editor.csproj             # OpenAI editor tools
+├── ReadyPlayerMe.*.csproj           # Avatar system components
+└── Are You There.sln                # Visual Studio solution file
 ```
 
 ## 🚀 Getting Started
