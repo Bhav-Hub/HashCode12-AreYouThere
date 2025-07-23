@@ -1,7 +1,7 @@
 ## Note
 **March 2023**
 
-This project was built in 24 hours  by second-year students during a college hackathon - HashCode12 @ PES University. <br/>
+This project was built in 24 hours during my second-year at a college hackathon - HashCode12 @ PES University. <br/>
 Supports Hindi language learning only
 
 To integrate another language:
